@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="btn_roll">扔</string>
+    <string name="dice_title2">扔我</string>
+</resources>
